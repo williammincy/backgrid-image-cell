@@ -1,6 +1,8 @@
 /*
   backgrid-image-cell
   http://github.com/williammincy/backgrid-image-cell
+  
+  Licensed under the MIT @license.
 */
 (function (root, factory) {
 
